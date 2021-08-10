@@ -1,2 +1,2 @@
 # Abalone
-Abalone Game with GUI
+Abalone Game with Shell
